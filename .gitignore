@@ -1,0 +1,6 @@
+apps/__pycache__/
+profiles_project/__pycache__/
+apps/profiles_api/__pycache__/
+apps/profiles_api/migrations/__pycache__/
+!apps/profiles_api/migrations/__init__.py
+env/
